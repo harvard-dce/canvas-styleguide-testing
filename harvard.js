@@ -7,6 +7,7 @@ $(document).ready(function(e) {
     $('footer').html(harvardCopy);
     
     $(".dce-accordion").accordion();
+    $(".dce-tabs").tabs();
 
 });
 
