@@ -8,7 +8,7 @@ $(document).ready(function(e) {
     
     $(".dce-accordion").accordion();
     $(".dce-tabs").tabs();
-
+    $(".dce-buttonset").buttonset();
 });
 
 $(document).tooltip();
